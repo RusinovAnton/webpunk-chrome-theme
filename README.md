@@ -1,2 +1,2 @@
 # webpunk-chrome-theme
-![screenshot](https://d1ro8r1rbfn3jf.cloudfront.net/ms_121859/6XJLaWrpmOp9uLeLeLyMdDU3nJW7Mn/New%2BTab%2B2017-03-22%2B01-22-51.png?Expires=1490224990&Signature=TaASf1ACokMG2aC9CFSOkOS4eofzHPsd2p6Iygbli-7i8wv6aKd0kXIGX0PKiFsaY1ddAtpNeS20a2rlasiGeKqWEce-r7FpnqWfL19kQcFPXrxUTigGJo243FYouwLwb85Qq3sD8MajnaOB1gnSd7VAOenZkAwCvKhucB5RKhTfSRwPz9igUXkizk4zqDL-FmiWA8Lt7X40SwfbOmVkg0auvsJjC3dS76iXy3Wl~7lB82Q10wPZPQK2cQ9P29vCA-H7cHDa~mC2PPaIJOUK7~R67bGbMitpeu3DH4GvUaIaV06L3FWVdZi7i4W8Iy6HJzVf6M4~7mqVItCqjVnPJQ__&Key-Pair-Id=APKAJHEJJBIZWFB73RSA)
+![screenshot](https://github.com/RusinovAnton/webpunk-chrome-theme/blob/master/screenshot.jpg)
